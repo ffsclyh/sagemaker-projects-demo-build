@@ -11,8 +11,8 @@ if (awsCredentialId == null) {
 // Sagemaker Project specific details
 def sagemakerProjectName = "demo-v03"
 def sagemakerProjectId = "p-alg7fkmqy6st"
-def sagemakerProjectArn = "arn:aws:sagemaker:us-east-1:627948529196:project/demo-v03"
-def sagemakerPipelineExecutionRole = "arn:aws:iam::627948529196:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
+def sagemakerProjectArn = "arn:aws:sagemaker:us-east-1:324320755747:project/demo-v03"
+def sagemakerPipelineExecutionRole = "arn:aws:iam::324320755747:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
 def awsRegion = "us-east-1"
 def artifactBucket = "sagemaker-project-p-alg7fkmqy6st"
 
